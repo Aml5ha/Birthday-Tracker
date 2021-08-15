@@ -23,10 +23,10 @@ Download the file in the repo named 'birthday_tracker.py'. After having the file
 ```bash
 python3 birthday_tracker.py
 ```
-#
+## Sample input provided below: 
 
 ```
-Enter filename that contains friends' names or press enter for default (default is names.txt). Or type 'All' to get everyone's birthdays!:All
+Enter filename that contains friends' names or press enter for default (default is names.txt). Or type 'All' to get everyone's birthdays!: All
 Enter filename that has Facebook Mobile Birthday html displaying 12+ months or press enter for default (default is birthday.html): birthday.html
 Enter years to keep event reminders or press enter for default (default is 3 years): 10
 ```

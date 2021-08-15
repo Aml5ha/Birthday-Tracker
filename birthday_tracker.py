@@ -87,7 +87,7 @@ param: names.txt should be a newline separated list of Facebook Friends whose bi
 param: birthday.html should be the downloaded html page from 'https://m.facebook.com/events/calendar/birthdays'. Be sure to scroll down 12+ months so all birthdays are displayed.
 The program takes these two files, scrapes the birthdays, and writes them to a csv file, which can then be imported to Google Calendar.
 Since Google Calendar doesn't support recurring events, the program asks for a third parameter for how many years to keep the birthday on your calendar.
-The default value for this optional parameter is 5 years.
+The default value for this optional parameter is 3 years.
 Any birthdays not found will not be added to the csv file.
 Be sure to keep this file in the same directory as the other two files.
 --------------------------------------------------------------------------------------------------------------------------------
